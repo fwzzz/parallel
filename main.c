@@ -7,6 +7,7 @@ int main()
     printf("git is great!\n");
     printf("I love math!\n");
     printf("bugfix");
+    Printf("a00") ;
     return 0;
 }
 
